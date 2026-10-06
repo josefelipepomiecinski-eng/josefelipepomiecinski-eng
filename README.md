@@ -32,5 +32,5 @@ Since I am balancing a demanding schedule between university at night and techni
 ## Connect with Me
 
 * **Email:** josefelipepomiecinski@gmail.com
-* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
-* **GitHub:** [://github.com](https://://github.com)
+* **LinkedIn:** https://www.linkedin.com/in/josé-f-s-pomiecinski/
+* **GitHub:** https://github.com/josefelipepomiecinski-eng
